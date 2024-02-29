@@ -1,0 +1,78 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    padding: 2rem;
+    background-color: white;
+}
+.main-body{
+    background-color: rgb(250, 225, 203);
+}
+nav #icons{
+    padding: 1rem;
+}
+nav{
+    margin-left: 25rem;
+}
+
+nav ul {
+    list-style: none;
+    margin-top: 1rem;
+
+}
+.icons{
+    width: 20px;
+    padding:10px ;
+}
+
+nav li {
+    display: inline;
+    margin-left: 3rem;
+    
+}
+.gadgets-list{
+    list-style: none;
+}
+.list-nav-1{
+    display: inline;
+}
+#red-heading{
+    color: red;
+}
+.top-sect{
+    margin-top: 10rem;
+    margin-left: 7rem;
+}
+.top-product-heading{
+    color: red;
+    
+}
+.topsection-content{
+    display: inline;
+}
+#browse-h3{
+    margin-left: 7rem;
+}
+img{
+    width: 40%;
+    height: 40%;
+    margin-left: 45rem;
+    position: relative;
+    margin-top: -15rem;
+    margin-right: 10rem;
+}
+
+
+.shop-now-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
